@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="nextButt">#D50B55</color>
+    <color name="shareButt">#FF5722</color>
+    <color name="purple_700">#039BE5</color>
+    <color name="purple_500">#FF5722</color>
+    <color name="teal_200">#00897B</color>
+    <color name="purple_200">#F4511E</color>
+    <color name="teal_700">#00ACC1</color>
+</resources>
