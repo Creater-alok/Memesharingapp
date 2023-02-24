@@ -31,7 +31,7 @@ class MainActivity : AppCompatActivity() {
         prog.visibility= VISIBLE
         //used before singleton
         //val queue = Volley.newRequestQueue(this)
-        val url = "https://meme-api.herokuapp.com/gimme"
+        val url = "https://meme-api.com/gimme"
 
         // Request a string response from the provided URL.
         val jsonObjectRequest = JsonObjectRequest(Request.Method.GET, url,null,
